@@ -50,4 +50,4 @@ A professional, data-driven academic portfolio compiling advanced business resea
 ---
 
 ## Author
-* **Jesus Kazaji** – Student at Boston City Campus
+* **Jesus Kazaji** – Student at Boston City Campus. Bcom Marketing Management
