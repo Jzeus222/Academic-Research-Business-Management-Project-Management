@@ -1,4 +1,4 @@
-# Boston City Campus Academic Research & Project Management Portfolio
+# Boston City Campus Academic Research: Business Management & Project Management Portfolio
 
 A professional, data-driven academic portfolio compiling advanced business research and operational infrastructure scheduling. This repository showcases the practical application of quantitative frameworks, risk evaluation, and algorithmic project management.
 
